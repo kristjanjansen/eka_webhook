@@ -1,6 +1,6 @@
 ## EKA Webhook
 
-Incoming and outgoing webhook enpoint.
+Incoming and outgoing webhook endpoints for messaging server.
 
 Part on the [Estonian Academy of Arts](https://www.artun.ee/en/home/) Emerging Themes masters project.
 
