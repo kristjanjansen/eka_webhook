@@ -9,7 +9,7 @@
     "alias": "eka-webhook"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "micro": "^9.3.3",
     "micro-cors": "^0.1.1",
     "micro-dev": "^3.0.0",
